@@ -1,0 +1,8 @@
+ /*Bartosz Sławek 3K g2*/
+h3 {  
+       width: 250pt; 
+        height: 3cm;  
+		margin-left     : 57%; 
+        border     : 10px dotted purple; 
+        background : rgb(50, 51, 50);
+    } 
